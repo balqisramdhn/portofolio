@@ -10,6 +10,15 @@
   color: #ff66c4;
 }
 
+.profile-img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border: 4px solid #ff4ecd;
+  object-fit: cover;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
 .project-container {
   display: flex;
   flex-wrap: wrap;
